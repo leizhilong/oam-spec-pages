@@ -1,0 +1,7 @@
+[book]
+title = "Open Applicaton Model Specs"
+author = "The OAM Authors"
+description = "Open Applicaton Model Specs"
+src = "."
+language = "en"
+
