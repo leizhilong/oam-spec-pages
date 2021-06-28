@@ -20,7 +20,7 @@
   - [Design Principles](9.design_principles.md)
 
 - [OAM Specs(中文)](cn/README.md)
-  - [目的和目标](1.purpose_and_goals.md)
+  - [目的和目标](cn/1.purpose_and_goals.md)
   - [总览与术语](2.overview_and_terminology.md)
   - [组件(Component) 模型](3.component_model.md)
   - [工作负载类型](4.workload_types.md)
