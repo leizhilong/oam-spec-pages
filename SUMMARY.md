@@ -25,7 +25,7 @@
   - [组件模型（Component Model）](cn/3.component_model.md)
   - [工作负载类型](cn/4.workload_types.md)
   - [应用边界（Application Scopes)](cn/5.application_scopes.md)
-  - [特性（Traits)](cn/6.traits.md)
+  - [运维特性（Traits)](cn/6.traits.md)
   - [应用（Application）](cn/7.application.md)
   - [实现考量](cn/8.practical_considerations.md)
   - [设计原则](cn/9.design_principles.md)
